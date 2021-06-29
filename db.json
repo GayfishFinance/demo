@@ -1,1 +1,1 @@
-{"name":"ColorNFT","description":"0","image":"https://gateway.pinata.cloud/ipfs/QmV2oADZx5GDv2vPWjGxksUTXW9T5ceMpE9GNd4WnNFTFs"}
+{ "title": "Asset Metadata", "type": "object", "properties": { "name": { "type": "string", "description": "Identifies the asset to which this NFT represents" }, "description": { "type": "string", "description": "Describes the asset to which this NFT represents" }, "image": { "type": "string", "description": "" } } }
